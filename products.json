@@ -1,0 +1,27 @@
+[
+  {
+    "name": "dell gaming",
+    "price": 501,
+    "company": "dell"
+  },
+  {
+    "name": "acer gaming",
+    "price": 502,
+    "company": "samusung"
+  },
+  {
+    "name": "apple gaming",
+    "price": 503,
+    "company": "mi"
+  },
+  {
+    "name": "HP gaming",
+    "price": 521,
+    "company": "mi"
+  },
+  {
+    "name": "Google gaming",
+    "price": 551,
+    "company": "dell"
+  }
+]
