@@ -3,8 +3,8 @@ require("dotenv").config();
 const cors = require("cors");
 const app = express();
 const Port = process.env.Port || 8000;
-const product_router = require("../routes/product");
-const connectDB = require("../db/connect");
+const product_router = require("./routes/product");
+const connectDB = require("./db/connect");
 
 // http://localhost:8000 it will go without path
 app.get("/", (req, res) => {
